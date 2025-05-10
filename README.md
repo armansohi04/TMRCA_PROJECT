@@ -2,7 +2,7 @@
 
 This project simulates the number of generations it takes for a population to reach a Most Recent Common Ancestor (TMRCA) using random sampling methods based on Chang’s model.
 
-## 📂 Included Files
+## 📂 Files
 - `tmrca_simulation.R` – Core simulation script  
 - `tmrca_results.csv` – Output data from 25 simulations per population size  
 - `tmrca_boxplot.png` – Visualization of results  
