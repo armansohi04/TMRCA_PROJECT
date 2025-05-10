@@ -1,4 +1,4 @@
-# TMRCA Simulation in R
+# TMRCA Simulation
 
 This project simulates the number of generations it takes for a population to reach a Most Recent Common Ancestor (TMRCA) using random sampling methods based on Chang’s model.
 
